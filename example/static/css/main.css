@@ -1,0 +1,12 @@
+body{
+    background: yellowgreen;
+}
+.container {
+    background: #56eaea;
+    margin: 10 10 10 10;
+    border: 3px solid black;
+}
+
+.nav a {
+    background: #1250e0;
+}
